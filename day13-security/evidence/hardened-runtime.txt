@@ -1,0 +1,6 @@
+ReadonlyRootfs=true
+Memory=268435456
+NanoCPUs=500000000
+PidsLimit=100
+CapDrop=[ALL]
+SecurityOpt=[no-new-privileges]
